@@ -65,9 +65,8 @@ The project is built using React and follows a fullstack architecture. The front
 ```plaintext
 ├── src
 │   ├── components
-│   │   ├── FeedbackForm.js
-│   │   ├── FeedbackStatistics.js
-│   │   └── App.js
+│   │   ├── App.jsx
+│   │ 
 │   ├── styles
 │   │   └── App.css
 │   ├── index.js
