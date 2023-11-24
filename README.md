@@ -20,7 +20,7 @@ The project is deployed and can be accessed [here](https://ayeshaseemab93.github
 
 ## Table of Contents
 
-- [Project Structure](#Project Structure)
+- [Project Structure](#Project-Structure)
 - [Features](#features)
 - [Usage](#usage)
 - [Getting Started](#getting-started)
@@ -59,12 +59,15 @@ Project Structure
 The project is built using React and follows a fullstack architecture. The frontend handles user interaction and feedback submission.
 
 ## Project Structure
+
 The project is built using React and follows a fullstack architecture. The frontend handles user interaction and feedback submission.
 
+```plaintext
 ├── src
 │   ├── components
-│   │   ├── App.jsx
-│   │  
+│   │   ├── FeedbackForm.js
+│   │   ├── FeedbackStatistics.js
+│   │   └── App.js
 │   ├── styles
 │   │   └── App.css
 │   ├── index.js
@@ -75,6 +78,7 @@ The project is built using React and follows a fullstack architecture. The front
 ├── package.json
 ├── README.md
 └── ...
+```
 
 ## Features
 
