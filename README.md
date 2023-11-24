@@ -20,12 +20,61 @@ The project is deployed and can be accessed [here](https://ayeshaseemab93.github
 
 ## Table of Contents
 
+- [Project Structure](#Project Structure)
 - [Features](#features)
 - [Usage](#usage)
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
 - [License](#license)
+
+
+Unicafe React Fullstack Project
+Welcome to the Unicafe React Fullstack Project! This project is a feedback system for a cafe, allowing users to provide feedback on their experience and view statistics based on the collected feedback.
+
+Project Overview
+Feedback Categories
+Users can provide feedback in three categories: Good, Neutral, and Bad. These categories help capture different aspects of their experience at the cafe.
+
+Good
+Neutral
+Bad
+Feedback Statistics
+The project displays statistics based on the feedback received, including:
+
+Number of "Good" feedback
+Number of "Neutral" feedback
+Number of "Bad" feedback
+Total feedback count
+Average feedback score
+Percentage of positive feedback
+Deployment
+The project is deployed and can be accessed here.
+
+How to Use
+Visit the deployment link to access the feedback system.
+Provide feedback in the categories: Good, Neutral, or Bad.
+Explore the feedback statistics to gain insights into the overall user experience.
+Project Structure
+The project is built using React and follows a fullstack architecture. The frontend handles user interaction and feedback submission.
+
+## Project Structure
+The project is built using React and follows a fullstack architecture. The frontend handles user interaction and feedback submission.
+
+├── src
+│   ├── components
+│   │   ├── App.jsx
+│   │  
+│   ├── styles
+│   │   └── App.css
+│   ├── index.js
+│   └── index.css
+├── public
+│   └── index.html
+├── .gitignore
+├── package.json
+├── README.md
+└── ...
 
 ## Features
 
